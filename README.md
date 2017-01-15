@@ -1,2 +1,2 @@
-# project-euler
-My solutions to various Project Euler (https://projecteuler.net/) problems.
+# Project Euler Solutions
+My solutions to various [Project Euler](https://projecteuler.net/) problems.
